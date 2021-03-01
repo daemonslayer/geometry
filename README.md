@@ -1,8 +1,8 @@
 **Table of Contents**
-  - Geometry
-    - Projective Geometry
-    - Discrete Differential Geometry
-    - Information Geometry
+  - [Geometry](#geometry)
+    - [Projective Geometry](#projective-geometry)
+    - [Discrete Differential Geometry](#discrete-differential-geometry)
+    - [Information Geometry](#information-geometry)
 
 # Geometry
 
