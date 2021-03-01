@@ -4,7 +4,7 @@
     - Discrete Differential Geometry
     - Information Geometry
 
-# geometry
+# Geometry
 
 ## Projective Geometry
 - Used widely in Computer Graphics to project higher dimensional geometry to 2D 
